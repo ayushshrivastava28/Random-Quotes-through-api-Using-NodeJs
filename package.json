@@ -1,0 +1,24 @@
+{
+  "name": "call-external-api",
+  "version": "1.0.0",
+  "description": "Api Calling",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "call",
+    "rest",
+    "ayush",
+    "node",
+    "web",
+    "api"
+  ],
+  "author": "Ayush",
+  "license":"MIT",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
